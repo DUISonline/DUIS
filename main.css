@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz@10..48&display=swap');
+
+h1, label {
+    color: white;
+}
+
+
+.container-fluid {
+    font-family: 'Bricolage Grotesque', sans-serif;
+    text-align: center;
+    background-color: #0f2c41
+}
+
+html {
+    background-color: #0f2c41;
+}
+
+.nav-link {
+    color: white;
+    text-align: center;
+}
